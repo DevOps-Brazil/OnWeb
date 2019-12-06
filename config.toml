@@ -6,17 +6,12 @@ publishDir = "docs"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
-    author = "CowboySmall"
-    description = "Business Frontpage - A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header"
-
-
-
-
-
+    author = "DevOps Brazil"
+    description = "DevOps Brazil"
 
     [params.navbar]
-        name = "Start Bootstrap"
-        url = "#"
+        name = "DevOps Brazil"
+        url = "https://devops-brazil.github.io/OnWeb/"
 
         [[params.navbar.nav]]
         current = true
@@ -32,19 +27,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Contact"
         url = "#"
 
-
-
-
-
-
     [params.header]
-        name = "Business Name or Tagline"
+        name = "DevOps Brazil"
         tagline = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam."
-
-
-
-
-
 
     [params.summary]
         url = "#"
@@ -63,11 +48,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         address2 = "Beverly Hills, CA 90210"
         phone = "(123) 456-7890"
         email = "name@example.com"
-
-
-
-
-
 
     [params.projects]
 
@@ -103,7 +83,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "#"
         image = "300x200.png"
 
-
         [[params.projects.sections]]
         # title = "Section 2"
         [[params.projects.sections.rows]]
@@ -131,10 +110,5 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "#"
         image = "300x200.png"
 
-
-
-
-
-
     [params.footer]
-        copyright = "Your Website"
+        copyright = "DevOps Brazil"
